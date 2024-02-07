@@ -84624,7 +84624,7 @@
                         "RewardSwitchAlt": "^",
                         "RewardDescription": "",
                         "CantClaimRewardDescription": "",
-                        "IsOptional": false,
+                        "IsOptional": true,
                         "GreyIfCantStart": false,
                         "IsRendezvous": false,
                         "IsStageControl": false,
